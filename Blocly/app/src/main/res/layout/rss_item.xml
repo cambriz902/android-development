@@ -5,7 +5,7 @@
     android:padding="16dp">
 
     <FrameLayout
-        android:id="@+id/fl_rss_itme_image_header"
+        android:id="@+id/fl_rss_item_image_header"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp">
@@ -31,7 +31,7 @@
         android:id="@+id/tv_rss_item_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/fl_rss_itme_image_header"
+        android:layout_below="@+id/fl_rss_item_image_header"
         android:text="New York Attacked By Giant Squid"/>
 
     <com.bloc.breezy.blocly.ui.widget.RobotoTextView
