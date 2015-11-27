@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="roboto_font_file_names">
+        <item>Merriweather-Regular.ttf</item>
         <item>Roboto-Black.ttf</item>
         <item>Roboto-BlackItalic.ttf</item>
         <item>Roboto-Bold.ttf</item>
